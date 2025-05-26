@@ -75,7 +75,7 @@ function App() {
       setIsSearch(false);
       setBands([]);
       // Fetch bands from the API based on the city
-      const res = await axios.get(`http://[::1]:3001/api/bands/index`, {
+      const res = await axios.get(`https://music-bands-backend-1.onrender.com`, {
         params: { city: searchCity.toLowerCase() },
       });
       setBands(res.data);
