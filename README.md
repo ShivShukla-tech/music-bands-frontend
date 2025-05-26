@@ -8,7 +8,6 @@ Music Band is a modern web application that helps users discover recently founde
 - Search bands by city
 - Automatic location-based search
 - Responsive design
-- Modern UI with Chakra UI
 - MusicBrainz API integration
 
 ## Setup and Run the project
@@ -22,7 +21,6 @@ Open [Music Band](https://music-bands-frontend.vercel.app/) to view it in your b
 
 ## Library and API's Used
   React.js
-  Chakra UI
   MusicBrainz API
   GeoJS API
 
