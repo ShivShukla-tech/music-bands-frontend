@@ -89,7 +89,7 @@ body {
 .search-button {
   position: absolute;
   right: 0.625rem; /* 10px */
-  bottom: 0.0.925rem;
+  bottom: 0.925rem;
   background-color: #1d4ed8; /* blue-700 */
   color: white;
   font-weight: 500;
