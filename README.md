@@ -1,6 +1,6 @@
 # Music Bands Frontend
 
-Musix Match Up is a modern web application that helps users discover recently founded music bands in their area. The application uses geolocation to detect the user's city and displays bands that were formed in that location within the last 10 years.
+Music Band is a modern web application that helps users discover recently founded music bands in their area. The application uses geolocation to detect the user's city and displays bands that were formed in that location within the last 10 years.
 
 ## Features
 
